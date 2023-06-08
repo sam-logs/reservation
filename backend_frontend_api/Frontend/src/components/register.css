@@ -1,0 +1,21 @@
+#sec1{
+
+    margin-top: 2.5rem; 
+    margin-right: 4rem;
+    
+ }
+ #mainsection{
+    
+         background-image: url('https://wallpapershome.com/images/pages/pic_h/600.jpg');
+         background-repeat: no-repeat;
+         background-size: 500px 400px, contain;
+         background-position: 20% 40%, left;
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         justify-content: center;
+         height: 100vh;
+       
+ }
+ 
+ 
